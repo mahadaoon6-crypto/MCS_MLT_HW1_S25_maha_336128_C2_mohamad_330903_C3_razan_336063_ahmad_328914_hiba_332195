@@ -1,0 +1,26 @@
+{
+  "original_columns": [
+    "account_id",
+    "SourceSystem",
+    "activity_date",
+    "who_id",
+    "opportunity_id",
+    "opportunity_stage",
+    "is_lead",
+    "types",
+    "Country",
+    "solution"
+  ],
+  "final_columns": [
+    "account_id",
+    "sourcesystem",
+    "activity_date",
+    "who_id",
+    "opportunity_id",
+    "opportunity_stage",
+    "is_lead",
+    "types",
+    "country",
+    "solution"
+  ]
+}
